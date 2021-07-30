@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.todolist{
+  display: center;
+  margin: 20px; 
+  margin-left: 100px;
+  
+}
+.btntodolist{
+  margin: 20px;
+}
+input{
+  padding: 50px;
+}
