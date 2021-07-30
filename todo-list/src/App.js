@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import 'bootstrap';
 
 function App() {
   return (
     <div className="App">
-     <h1>hello</h1>
+     <h1>TO-DO List</h1>
     </div>
   );
 }
